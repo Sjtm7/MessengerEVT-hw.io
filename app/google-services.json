@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111829329660",
+    "firebase_url": "https://messanger-evt17.firebaseio.com",
+    "project_id": "messanger-evt17",
+    "storage_bucket": "messanger-evt17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111829329660:android:0aa0e2067fea503ae9d979",
+        "android_client_info": {
+          "package_name": "github.com.messengerevt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111829329660-pgjse681con815diuvkjggs0lejm0bdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "github.com.messengerevt",
+            "certificate_hash": "6b4b6dbc33c84857de06cc8f5f05e9d5a72488e9"
+          }
+        },
+        {
+          "client_id": "111829329660-m2v5nbpiebtknclp2njg8hpujlc32f4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXNe_9e7nQ1zPul1bUcFGhur-hfq3qmmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111829329660-m2v5nbpiebtknclp2njg8hpujlc32f4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
